@@ -6,7 +6,7 @@ The things I do when setting up a new Mac
 
 - [ ] Install [homebrew](https://brew.sh)
 - [ ] Login locally on GitHub and Bitbucket
-- [ ] Setup [dotfiles](https://github.com/aklowther/dotfiles)
+- [ ] Setup [dotfiles](https://github.com/aklowther/dot-files)
 - [ ] Install Brewfile
 - [ ] [iTerm 3](https://www.iterm2.com/version3.html)?
 - [ ] Follow [what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using)
