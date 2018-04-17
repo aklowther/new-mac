@@ -40,3 +40,11 @@ The things I do when setting up a new Mac
 
 ## Other
 - [ ] Transfer iMessages history (`~/Library/Messages`)
+
+## Apps not yet in Brewfile
+- [ ] Keyboard Maestro
+- [ ] TechTool
+- [ ] Dash
+- [ ] Cameras Plugin
+- [ ] Secrets Plugin
+- [ ] Scrapple
