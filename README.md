@@ -40,4 +40,12 @@ The things I do when setting up a new Mac
 
 ## Other
 - [ ] Transfer iMessages history (`~/Library/Messages`)
-- [ ] Transfer Dock setup (`~/Library/Preferences/com.apple.dock.plist)
+- [ ] Transfer Dock setup (`~/Library/Preferences/com.apple.dock.plist`)
+
+## Apps not yet in Brewfile
+- [ ] Keyboard Maestro
+- [ ] TechTool
+- [ ] Dash
+- [ ] Cameras Plugin
+- [ ] Secrets Plugin
+- [ ] Scrapple
