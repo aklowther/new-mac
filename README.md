@@ -22,7 +22,6 @@ The things I do when setting up a new Mac
 
 ## Sublime Text
 
-- [ ] Migrate settings
 - [ ] Install plugins
 
 ## Finder
