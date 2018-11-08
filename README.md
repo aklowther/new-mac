@@ -8,7 +8,6 @@ The things I do when setting up a new Mac
 - [ ] Login locally on GitHub and Bitbucket
 - [ ] Setup [dotfiles](https://github.com/aklowther/dot-files)
 - [ ] Install Brewfile
-- [ ] [iTerm 3](https://www.iterm2.com/version3.html)?
 - [ ] Follow [what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using)
 
 ## Alfred
@@ -36,6 +35,7 @@ The things I do when setting up a new Mac
 ## Install and setup
 
 - [ ] [Airmail](http://airmailapp.com)
+- [ ] Copy Archives
 
 ## Other
 - [ ] Transfer iMessages history (`~/Library/Messages`)
@@ -47,4 +47,4 @@ The things I do when setting up a new Mac
 - [ ] Dash
 - [ ] Cameras Plugin
 - [ ] Secrets Plugin
-- [ ] Scrapple
+- [ ] Scapple
