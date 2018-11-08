@@ -9,6 +9,7 @@ The things I do when setting up a new Mac
 - [ ] Setup [dotfiles](https://github.com/aklowther/dot-files)
 - [ ] Install Brewfile
 - [ ] Follow [what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using)
+- [ ] Run dotfiles installer
 
 ## Alfred
 
@@ -22,6 +23,7 @@ The things I do when setting up a new Mac
 ## Sublime Text
 
 - [ ] Install plugins
+- [ ] [Fix CLI](https://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/) 
 
 ## Finder
 
@@ -35,7 +37,7 @@ The things I do when setting up a new Mac
 ## Install and setup
 
 - [ ] [Airmail](http://airmailapp.com)
-- [ ] Copy Archives
+- [ ] [Copy Archives](http://docs.airmailapp.com/airmail-for-mac/migrating-to-new-hd-airmail-for-macos)
 
 ## Other
 - [ ] Transfer iMessages history (`~/Library/Messages`)
