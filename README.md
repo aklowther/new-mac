@@ -39,6 +39,11 @@ The things I do when setting up a new Mac
 - [ ] [Airmail](http://airmailapp.com)
 - [ ] [Copy Archives](http://docs.airmailapp.com/airmail-for-mac/migrating-to-new-hd-airmail-for-macos)
 
+- [ ] add accounts to Xcode
+- [ ] transfer signing certificates if needed
+
+- [ ] iTunes->Preferences : Prevent devices from automatically syncing
+
 ## Other
 - [ ] Transfer iMessages history (`~/Library/Messages`)
 - [ ] Transfer Dock setup (`~/Library/Preferences/com.apple.dock.plist`)
