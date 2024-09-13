@@ -5,7 +5,7 @@ The things I do when setting up a new Mac
 ## Setup shell
 
 - [ ] Install [homebrew](https://brew.sh)
-- [ ] Login locally on GitHub and Bitbucket
+- [ ] Login locally on GitHub
 - [ ] Setup [dotfiles](https://github.com/aklowther/dot-files)
 - [ ] Install Brewfile
 - [ ] Follow [what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using)
@@ -45,7 +45,6 @@ The things I do when setting up a new Mac
 - [ ] iTunes->Preferences : Prevent devices from automatically syncing
 
 ## Other
-- [ ] Transfer iMessages history (`~/Library/Messages`)
 - [ ] Transfer Dock setup (`~/Library/Preferences/com.apple.dock.plist`)
 
 ## Apps not yet in Brewfile
