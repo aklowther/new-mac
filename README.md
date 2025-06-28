@@ -15,14 +15,11 @@ The things I do when setting up a new Mac
 
 - [ ] Enable sync via Dropbox
 
-## Tweetbot
-
-- [ ] Login to all accounts
-- [ ] Setup 3 panes
-
 ## Sublime Text
 
 - [ ] Install plugins
+    - Yollama
+    - Pretty JSON
 - [ ] [Fix CLI](https://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/) 
 
 ## Finder
@@ -36,21 +33,6 @@ The things I do when setting up a new Mac
 
 ## Install and setup
 
-- [ ] [Airmail](http://airmailapp.com)
-- [ ] [Copy Archives](http://docs.airmailapp.com/airmail-for-mac/migrating-to-new-hd-airmail-for-macos)
-
 - [ ] add accounts to Xcode
 - [ ] transfer signing certificates if needed
 
-- [ ] iTunes->Preferences : Prevent devices from automatically syncing
-
-## Other
-- [ ] Transfer Dock setup (`~/Library/Preferences/com.apple.dock.plist`)
-
-## Apps not yet in Brewfile
-- [ ] Keyboard Maestro
-- [ ] TechTool
-- [ ] Dash
-- [ ] Cameras Plugin
-- [ ] Secrets Plugin
-- [ ] Scapple
